@@ -142,8 +142,8 @@ const Page = () => {
                 {/*links*/}
                 <div className="">
                     <h1 className="text-xl sm:text-2xl font-bold pt-10 pb-5">Links</h1>
-                    <h1 className=" font-semibold"><Link to ="tulad-portfolio.netlify.app">Portfolio</Link></h1>
-                    <h1 className="font-semibold"> <Link to="https://github.com/tuladharamar" target="_blank">Github</Link></h1>
+                    <h1 className=" font-semibold"><Link to ="https://tulad-portfolio.netlify.app">Portfolio</Link></h1>
+                    <h1 className="font-semibold"> <Link to ="https://github.com/tuladharamar" target="_blank">Github</Link></h1>
                 </div>
             </div>
             )}
