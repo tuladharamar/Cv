@@ -142,7 +142,7 @@ const Page = () => {
                 {/*links*/}
                 <div className="">
                     <h1 className="text-xl sm:text-2xl font-bold pt-10 pb-5">Links</h1>
-                    <h1 className=" font-semibold"><Link to ="https://portfolio-drab-ten-1sjjtqcrwx.vercel.app" target="_blank">Portfolio</Link></h1>
+                    <h1 className=" font-semibold"><Link to ="portfolio-7wdfstvlx-amar-tuladhars-projects.vercel.app" target="_blank">Portfolio</Link></h1>
                     <h1 className="font-semibold"> <Link to ="https://github.com/tuladharamar" target="_blank">Github</Link></h1>
                 </div>
             </div>
